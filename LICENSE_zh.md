@@ -1,7 +1,5 @@
-# Dinety 音乐工程许可协议
-Dinety Music Project License
+# Dinety 音乐工程许可协议  
 
----
 
 **语言选择**
 
