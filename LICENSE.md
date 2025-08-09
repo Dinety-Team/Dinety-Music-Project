@@ -1,5 +1,11 @@
 # Dinety Music Project License  
 
+**Lang Select**
+
+[简体中文](LICENSE_zh.md)
+
+[Français](LICENSE_fr.md)
+
 ---
 
 ## Table of Contents
@@ -43,4 +49,4 @@ Without **explicit written permission** from the Dinety Team, you **may not**: 
 ## 4. Compliance and Enforcement  
 - Any violation of this license will result in the **immediate termination** of your rights to use the music.  
 - The Dinety Team reserves the right to request removal of any content that violates these terms.  
-- This license does not grant you any trademark rights to the Dinety name, logo, or related branding.  
+- This license does not grant you any trademark rights to the Dinety name, logo, or related branding.
