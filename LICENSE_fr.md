@@ -1,4 +1,4 @@
-### Règlement de licence du projet Dinety music engineering
+# Règlement de licence du projet Dinety music engineering
 
 ---
 
