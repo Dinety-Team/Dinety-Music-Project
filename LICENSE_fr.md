@@ -1,4 +1,10 @@
-# Règlement de licence du projet Dinety music engineering
+# Règlement de licence du Projet Dinety Music
+
+**Choisir La Langue**
+
+[English](LICENSE.md)
+
+[简体中文](LICENSE_zh.md)
 
 ---
 
